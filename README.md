@@ -1,6 +1,9 @@
 ### Hi， I'm VagrantDaniel 👋
 
 ![VagrantDaniel's Github stats](https://github-readme-stats.vercel.app/api?username=VagrantDaniel&show_icons=true&theme=gotham)
+
+![](https://raw.githubusercontent.com/VagrantDaniel/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/VagrantDaniel/github-stats-transparent/output/generated/languages.svg)
 <!--
 **VagrantDaniel/VagrantDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
